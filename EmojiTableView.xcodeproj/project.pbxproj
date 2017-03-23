@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					64E8A6211E83D6E100B9D456 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 8MZ8F3R943;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8MZ8F3R943;
 				INFOPLIST_FILE = EmojiTableView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = kremkow.manuel.EmojiTableView;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8MZ8F3R943;
 				INFOPLIST_FILE = EmojiTableView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = kremkow.manuel.EmojiTableView;
